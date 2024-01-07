@@ -13,4 +13,4 @@ Some screws to hold the box and 2x 8mm bolts for the table mount.
 Here are some screenshots.
 
 ![Photo 1](img/1.jpg?raw=true "Photo 1")
-![FreeCAD](img/freecad.png?raw=true "FreeCAD")
+![FreeCAD](img/freecad.jpg?raw=true "FreeCAD")
